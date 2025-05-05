@@ -1,0 +1,16 @@
+Recommendations for course we want to start with
+
+1. https://youtu.be/gJrjgg1KVL4?si=BY2pK-y4Y2CsynBy
+2. https://www.codecademy.com/learn/paths/create-rest-apis-with-spring-and-java
+3. https://www.youtube.com/watch?v=QuvS_VLbGko
+4. https://www.youtube.com/watch?v=m559BxR30ls
+5. https://app.pluralsight.com/paths/skill/spring-framework-6-and-spring-boot-3
+6. https://www.udemy.com/share/1013Mw3@vmqOqNva0JiQtBEzaPt1eQuqJoA9l_S3rf7S0n7MXozqeoN9fu1sOSeJwDlObNk5/
+
+
+Notes:
+Maybe it will be good to watch some Intro videos on spring
+- https://app.pluralsight.com/library/courses/spring-framework-big-picture/table-of-contents
+- https://app.pluralsight.com/library/courses/spring-boot-3-big-picture/table-of-contents
+- https://app.pluralsight.com/library/courses/spring-framework-6-fundamentals/table-of-contents
+- https://app.pluralsight.com/library/courses/spring-boot-3-fundamentals/table-of-contents
